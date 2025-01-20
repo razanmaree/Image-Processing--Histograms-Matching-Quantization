@@ -4,4 +4,4 @@ Our dataset consists of images of grade histograms and images of the 10 digits. 
 For example, the following image's output is: 1,1,1,3,1,2,9,3,3,0.
 
 
-![image](https://github.com/user-attachments/assets/7b3ca0c1-abe0-4e1e-afd2-5794aafdf24b)
+![image](https://github.com/user-attachments/assets/6d6e4e75-5707-438b-9f21-2daaef225a90)
